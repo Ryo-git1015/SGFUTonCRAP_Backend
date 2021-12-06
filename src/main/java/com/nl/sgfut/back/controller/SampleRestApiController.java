@@ -42,7 +42,7 @@ public class SampleRestApiController {
 
 	@RequestMapping("/get/userList")
 	public List<SgfutUser> getUserList() {
-
+		
 		List<SgfutUser> sgfutUserList = sgfutUserService.findAllSgfutUserData();
 
 		return sgfutUserList;
@@ -68,7 +68,7 @@ public class SampleRestApiController {
 	 */
 	@RequestMapping("/test/{param}")
 	private String testPathVariable(@PathVariable String param) {
-		log.info(param);
+		log.info(param);		
 		return "受け取ったパラメータ:" + param;
 	}
 
