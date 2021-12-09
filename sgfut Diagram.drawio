@@ -1,58 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T06:08:09.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="dGVXNO_D6ijwSxRPr0Bw" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T06:25:47.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="5D_FZh1xjnILTpkbaPje" version="15.9.4" type="github">
   <diagram id="v2qQB46jnsBQJeu8lHIV" name="Page-1">
     <mxGraphModel dx="2033" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WeLaR92I-kGNufDvTVf9-1" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-520" y="557.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="-520" y="797.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="320" width="240" height="560" as="geometry" />
+          <mxGeometry x="-400" y="560" width="240" height="560" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-5" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="320" width="110" height="25" as="geometry" />
+          <mxGeometry x="-400" y="560" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-8" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="365" width="130" height="60" as="geometry" />
+          <mxGeometry x="-340" y="605" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-9" value="イベントを登録する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="435" width="130" height="60" as="geometry" />
+          <mxGeometry x="-340" y="675" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-10" value="登録された&lt;br&gt;イベント内容を&lt;br&gt;確認する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="505" width="130" height="60" as="geometry" />
+          <mxGeometry x="-340" y="745" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-11" value="イベントに&lt;br&gt;コメントする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="575" width="130" height="60" as="geometry" />
+          <mxGeometry x="-340" y="815" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-12" value="イベントに&lt;br&gt;参加表明する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="645" width="130" height="60" as="geometry" />
+          <mxGeometry x="-340" y="885" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-13" value="イベントに&lt;br&gt;CRAPする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="715" width="130" height="60" as="geometry" />
+          <mxGeometry x="-340" y="955" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-480" y="595" as="sourcePoint" />
-            <mxPoint x="-329.22" y="408.29999999999995" as="targetPoint" />
+            <mxPoint x="-480" y="835" as="sourcePoint" />
+            <mxPoint x="-329.22" y="648.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-480" y="595" as="sourcePoint" />
-            <mxPoint x="-329.9999999999985" y="475" as="targetPoint" />
+            <mxPoint x="-480" y="835" as="sourcePoint" />
+            <mxPoint x="-329.9999999999985" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="590" as="sourcePoint" />
-            <mxPoint x="-329.9999999999985" y="545" as="targetPoint" />
+            <mxPoint x="-80" y="830" as="sourcePoint" />
+            <mxPoint x="-329.9999999999985" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-480" y="595" as="sourcePoint" />
-            <mxPoint x="-330.26" y="618.7199999999999" as="targetPoint" />
+            <mxPoint x="-480" y="835" as="sourcePoint" />
+            <mxPoint x="-330.26" y="858.7199999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-23" value="SGFUT&lt;br&gt;管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
@@ -109,8 +109,8 @@
             <mxPoint x="-329.9999999999985" y="3010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeLaR92I-kGNufDvTVf9-37" value="&lt;h1&gt;イベント開催&lt;/h1&gt;&lt;p&gt;イベント主催者はSGFUTにイベント登録を行う。利用者はイベント内容を確認し、参加したい場合は参加表明する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-810" y="320" width="190" height="120" as="geometry" />
+        <mxCell id="WeLaR92I-kGNufDvTVf9-37" value="&lt;h1&gt;イベント登録&lt;/h1&gt;&lt;p&gt;イベント主催者はSGFUTにイベント登録を行う。利用者はイベント内容を確認し、参加したい場合、参加表明する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="560" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-41" value="&lt;h1&gt;システム管理&lt;/h1&gt;&lt;p&gt;SGFUT管理者は機能の追加/更新/削除などのメンテナンスを行う。不要になったユーザーの削除なども行う。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-820" y="2720" width="240" height="120" as="geometry" />
@@ -121,43 +121,43 @@
         <mxCell id="WeLaR92I-kGNufDvTVf9-60" value="&lt;h1&gt;イベント内容変更&lt;/h1&gt;&lt;p&gt;イベント主催者がイベント内容を変更したい場合、イベント詳細からイベント内容を変更する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-810" y="1190" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WeLaR92I-kGNufDvTVf9-61" value="&lt;h1&gt;ユーザー認証&lt;/h1&gt;&lt;p&gt;SGFUT利用者は初回にユーザー登録を行う。以降はユーザーID、パスワードでログインする。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-810" y="45" width="190" height="120" as="geometry" />
+        <mxCell id="WeLaR92I-kGNufDvTVf9-61" value="&lt;h1&gt;パスワード変更&lt;/h1&gt;&lt;p&gt;SGFUT利用者はログインパスワードの変更が可能。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="-475" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-106" value="イベント&lt;br&gt;参加者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-70" y="555" width="30" height="60" as="geometry" />
+          <mxGeometry x="-70" y="795" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-107" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="590" as="sourcePoint" />
-            <mxPoint x="-199.99999999999704" y="545" as="targetPoint" />
+            <mxPoint x="-80" y="830" as="sourcePoint" />
+            <mxPoint x="-199.99999999999704" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-108" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="590" as="sourcePoint" />
-            <mxPoint x="-199.99999999999704" y="685" as="targetPoint" />
+            <mxPoint x="-80" y="830" as="sourcePoint" />
+            <mxPoint x="-199.99999999999704" y="925" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-109" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="590" as="sourcePoint" />
-            <mxPoint x="-199.99999999999704" y="755" as="targetPoint" />
+            <mxPoint x="-80" y="830" as="sourcePoint" />
+            <mxPoint x="-199.99999999999704" y="995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-110" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="590" as="sourcePoint" />
-            <mxPoint x="-199.99999999999704" y="545" as="targetPoint" />
+            <mxPoint x="-80" y="830" as="sourcePoint" />
+            <mxPoint x="-199.99999999999704" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-111" value="イベント参加者を&lt;br&gt;確認する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="785" width="130" height="60" as="geometry" />
+          <mxGeometry x="-340" y="1025" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-112" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-480" y="595" as="sourcePoint" />
-            <mxPoint x="-329.22" y="618.5400000000001" as="targetPoint" />
+            <mxPoint x="-480" y="835" as="sourcePoint" />
+            <mxPoint x="-329.22" y="858.5400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-114" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
@@ -188,30 +188,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-135" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-520" y="110" width="30" height="60" as="geometry" />
+          <mxGeometry x="-520" y="-410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="40" width="240" height="200" as="geometry" />
+          <mxGeometry x="-400" y="-480" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-137" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="40" width="110" height="25" as="geometry" />
+          <mxGeometry x="-400" y="-480" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="WeLaR92I-kGNufDvTVf9-138" value="初回登録する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-345" y="75" width="130" height="60" as="geometry" />
+        <mxCell id="WeLaR92I-kGNufDvTVf9-138" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-345" y="-445" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeLaR92I-kGNufDvTVf9-139" value="ユーザーID・&lt;br&gt;パスワードで&lt;br&gt;ログインする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-345" y="145" width="130" height="60" as="geometry" />
+        <mxCell id="WeLaR92I-kGNufDvTVf9-139" value="パスワードを&lt;br&gt;変更する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-345" y="-375" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-145" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-138" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-480" y="140" as="sourcePoint" />
-            <mxPoint x="-360" y="-20" as="targetPoint" />
+            <mxPoint x="-480" y="-380" as="sourcePoint" />
+            <mxPoint x="-360" y="-540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-146" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="WeLaR92I-kGNufDvTVf9-139" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-480" y="140" as="sourcePoint" />
-            <mxPoint x="-319.22" y="-46.700000000000045" as="targetPoint" />
+            <mxPoint x="-480" y="-380" as="sourcePoint" />
+            <mxPoint x="-319.22" y="-566.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-154" value="&lt;h1&gt;開催中イベント確認&lt;/h1&gt;&lt;p&gt;SGFUT利用者は開催中のイベントを一覧で確認する。いいなと思ったイベントにはCRAPを行う。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -329,25 +329,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="-320" width="240" height="200" as="geometry" />
+          <mxGeometry x="-760" y="-960" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-3" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="-320" width="110" height="25" as="geometry" />
+          <mxGeometry x="-760" y="-960" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-4" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-760" y="-520" width="30" height="60" as="geometry" />
+          <mxGeometry x="-755" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-5" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-520" y="-520" width="30" height="60" as="geometry" />
+          <mxGeometry x="-515" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-6" value="イベント&lt;br&gt;参加者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-520" width="30" height="60" as="geometry" />
+          <mxGeometry x="-395" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-7" value="SGFUT&lt;br&gt;管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-640" y="-520" width="30" height="60" as="geometry" />
+          <mxGeometry x="-635" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-8" value="NL社員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-520" width="30" height="60" as="geometry" />
+          <mxGeometry x="-275" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-12" value="&lt;h1&gt;イベント削除&lt;/h1&gt;&lt;p&gt;イベント主催者はイベントを取り消したい場合、イベント削除を行う。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-810" y="1470" width="220" height="120" as="geometry" />
@@ -425,6 +425,105 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="1860" as="sourcePoint" />
             <mxPoint x="-199.99999999999704" y="1980.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-32" value="&lt;h1&gt;パスワードリセット&lt;/h1&gt;&lt;p&gt;SGFUT利用者はログインパスワードを忘れた際、パスワードリセットによりパスワード情報を初期化する。初期化後は新パスワードを入力する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-235" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-33" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-240" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-35" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-240" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-36" value="パスワード&lt;br&gt;リセット" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-205" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-37" value="ユーザーID・&lt;br&gt;新パスワードで&lt;br&gt;ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-135" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="-140.00000000000023" as="sourcePoint" />
+            <mxPoint x="-360" y="-300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="-140.00000000000023" as="sourcePoint" />
+            <mxPoint x="-319.22" y="-326.70000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-40" value="&lt;h1&gt;ユーザー認証&lt;/h1&gt;&lt;p&gt;SGFUT利用者は初回にユーザー登録を行う。以降はユーザーID、パスワードでログインする。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-715" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-41" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-720" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-43" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-720" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-44" value="初回登録する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-685" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-45" value="ユーザーID・&lt;br&gt;パスワードで&lt;br&gt;ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-615" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-46" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="-620.0000000000002" as="sourcePoint" />
+            <mxPoint x="-360" y="-780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="-620.0000000000002" as="sourcePoint" />
+            <mxPoint x="-319.22" y="-806.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-48" value="&lt;h1&gt;マイページ確認・変更&lt;/h1&gt;&lt;p&gt;SGFUT利用者はログインIDごとに存在する専用ページ（マイページ）を持ち、アイコン画像、ユーザー登録情報の確認・変更が行える。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="45" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-49" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-520" y="145" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="40" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-51" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="40" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-52" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="75" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-53" value="マイページに&lt;br&gt;遷移する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="145" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="180" as="sourcePoint" />
+            <mxPoint x="-360" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="180" as="sourcePoint" />
+            <mxPoint x="-319.22" y="-46.700000000000045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-56" value="ユーザー情報を&lt;br&gt;確認・変更する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-343.5" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="180" as="sourcePoint" />
+            <mxPoint x="-335.00000000000296" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
