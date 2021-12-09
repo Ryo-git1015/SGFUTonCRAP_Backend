@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T05:53:59.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="rwCNmWqbxz7WOLRmFqfa" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T06:08:09.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="dGVXNO_D6ijwSxRPr0Bw" version="15.9.4" type="github">
   <diagram id="v2qQB46jnsBQJeu8lHIV" name="Page-1">
     <mxGraphModel dx="2033" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-16" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1520" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-17" value="イベントを&lt;br&gt;削除する。" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-17" value="イベントを&lt;br&gt;削除する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1590" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A33HGGwkOWzx7C4AMWZ3-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-16">
@@ -377,6 +377,54 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480.0000000000002" y="1580" as="sourcePoint" />
             <mxPoint x="-334.9999999999985" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-20" value="&lt;h1&gt;イベント復旧&lt;/h1&gt;&lt;p&gt;イベント主催者が誤ってイベント削除してしまい、復旧させたい場合はSGFUT管理者にその旨を連絡する。SGFUT管理者は復旧連絡をトリガーにイベントページを復旧させる。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="1750" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-21" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1760" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-23" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1760" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-24" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1800" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-25" value="イベント復旧&lt;br&gt;の依頼" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1870" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480.0000000000002" y="1860.0000000000005" as="sourcePoint" />
+            <mxPoint x="-334.22" y="1673.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480.0000000000002" y="1860.0000000000005" as="sourcePoint" />
+            <mxPoint x="-334.9999999999985" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-28" value="SGFUT&lt;br&gt;管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-29" value="イベントページ&lt;br&gt;の復旧" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1940" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-30" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="1860" as="sourcePoint" />
+            <mxPoint x="-330.00000000000296" y="1840.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-31" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="1860" as="sourcePoint" />
+            <mxPoint x="-199.99999999999704" y="1980.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
