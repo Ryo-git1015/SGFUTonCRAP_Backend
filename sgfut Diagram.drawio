@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T07:10:56.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="uf5MPG8xtlSVL2DJiCID" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T09:11:02.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="EMT_pPnFv0mVrsjVf0R8" version="15.9.4" type="github">
   <diagram id="v2qQB46jnsBQJeu8lHIV" name="Page-1">
-    <mxGraphModel dx="1825" dy="1777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2177" dy="1924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,8 +259,8 @@
         <mxCell id="WeLaR92I-kGNufDvTVf9-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="3560" width="240" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="WeLaR92I-kGNufDvTVf9-166" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-445" y="3560" width="200" height="30" as="geometry" />
+        <mxCell id="WeLaR92I-kGNufDvTVf9-166" value="SGFUT on CRAP プロジェクト" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-445" y="3560" width="274" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-167" value="実装する機能要件を&lt;br&gt;文書化する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="3600" width="130" height="60" as="geometry" />
@@ -525,6 +525,12 @@
             <mxPoint x="-480" y="180" as="sourcePoint" />
             <mxPoint x="-335.00000000000296" y="185" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-960" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-60" value="SGFUT on CRAP プロジェクト" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-960" width="191" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
