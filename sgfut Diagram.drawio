@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T01:36:17.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="1JphhK43NrG87XAIC6Ak" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T01:45:02.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="WT7il0yxtuvNB0BIOO2d" version="15.9.4" type="github">
   <diagram id="v2qQB46jnsBQJeu8lHIV" name="Page-1">
-    <mxGraphModel dx="2529" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2529" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,16 +110,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-37" value="&lt;h1&gt;イベント開催&lt;/h1&gt;&lt;p&gt;イベント主催者はSGFUTにイベント登録を行う。利用者はイベント内容を確認し、参加したい場合は参加表明する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="325" width="190" height="120" as="geometry" />
+          <mxGeometry x="-810" y="320" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-41" value="&lt;h1&gt;システム管理&lt;/h1&gt;&lt;p&gt;SGFUT管理者は機能の追加/更新/削除などのメンテナンスを行う。不要になったユーザーの削除なども行う。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-810" y="1760" width="240" height="120" as="geometry" />
+          <mxGeometry x="-820" y="1800" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-42" value="&lt;h1&gt;開発機会の提供&lt;/h1&gt;&lt;p&gt;SGFUT管理者は社員に対して、開発の場を提供する。実装予定の機能内容、開発環境構築手順などを連携する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="2360" width="240" height="120" as="geometry" />
+          <mxGeometry x="-810" y="2440" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-60" value="&lt;h1&gt;イベント内容変更&lt;/h1&gt;&lt;p&gt;イベント主催者がイベント内容を変更したい場合、イベント詳細からイベント内容を変更する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="1190" width="220" height="120" as="geometry" />
+          <mxGeometry x="-810" y="1180" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-61" value="&lt;h1&gt;ユーザー認証&lt;/h1&gt;&lt;p&gt;SGFUT利用者は初回にユーザー登録を行う。以降はユーザーID、パスワードでログインする。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-810" y="45" width="190" height="120" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="-520" y="1260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="1190" width="240" height="200" as="geometry" />
+          <mxGeometry x="-400" y="1190" width="240" height="210" as="geometry" />
         </mxCell>
         <mxCell id="WeLaR92I-kGNufDvTVf9-116" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="1190" width="110" height="25" as="geometry" />
@@ -327,6 +327,27 @@
             <mxPoint x="-215" y="2870" as="sourcePoint" />
             <mxPoint x="-80" y="2660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-320" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-3" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-320" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-4" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-5" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-6" value="イベント&lt;br&gt;参加者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-7" value="SGFUT&lt;br&gt;管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-8" value="NL社員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-520" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
