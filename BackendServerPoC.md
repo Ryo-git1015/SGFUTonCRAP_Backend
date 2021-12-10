@@ -158,7 +158,7 @@
 		- 7.5.12. http://localhost:8080/sgfutback/sample/api/json
 			- GET JSON形式で返却する。
 		- 7.5.13. http://localhost:8080/sgfutback/sample/api/slack/postMessage
-			- GET Slackにテストメッセージを通知する。(※ 当手順の「9. Slackへの通知API構築手順」参照)
+			- GET Slackにテストメッセージを通知する。(※ Slack通知対象のチャンネルを変更する場合は、当手順の「9. Slackへの通知API構築手順」参照)
 
 
 	8. JMeter導入(番外編 現状は不要)
