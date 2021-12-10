@@ -1,6 +1,7 @@
 package com.nl.sgfut.back.controller;
 
 import java.io.File;
+import java.net.URI;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
@@ -13,6 +14,7 @@ import org.springframework.core.io.FileSystemResource;
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
+import org.springframework.http.RequestEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -21,7 +23,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.nl.sgfut.back.mapper.JsonMapper;
 import com.nl.sgfut.back.model.SgfutEvent;
 import com.nl.sgfut.back.model.SgfutUser;
@@ -39,6 +45,39 @@ public class SampleRestApiController {
 	SgfutEventService sgfutEventService;
 
 	private static final Logger log = LoggerFactory.getLogger(SampleRestApiController.class);
+
+	private static final String SLACK_INCOMING_WEBHOOK = "https://hooks.slack.com/services/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";
+
+	@JsonSerialize
+	static class SimpleSlackIncoming {
+		public String channel = "#sgfut-promotion-team";
+		public String username = "test";
+		public String text = "SGFUT実装お試しによる Slack への通知メッセージ投げ込みです。";
+		public String icon_emoji = ":ghost:";
+	}
+
+	@RequestMapping("/slack/postMessage")
+	public String slackPostMessage() {
+		SimpleSlackIncoming incoming = new SimpleSlackIncoming();
+
+		// 送信データを JSONテキスト化
+		final ObjectMapper mapper = new ObjectMapper();
+		String incomingJson = null;
+		try {
+			incomingJson = "payload=" + mapper.writeValueAsString(incoming);
+		} catch (JsonProcessingException e) {
+			e.printStackTrace();
+		}
+
+		// API 呼び出し
+		RequestEntity<?> req = RequestEntity //
+				.post(URI.create(SLACK_INCOMING_WEBHOOK)) //
+				.header("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8") //
+				.body(incomingJson);
+		new RestTemplate().exchange(req, String.class);
+
+		return "slackへの通知完了";
+	}
 
 	@RequestMapping("/get/userList")
 	public List<SgfutUser> getUserList() {
