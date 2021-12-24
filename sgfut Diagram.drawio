@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T09:11:02.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="EMT_pPnFv0mVrsjVf0R8" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T13:54:51.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vPJXes40_68QIrDGqB4U" version="15.9.4" type="github">
   <diagram id="v2qQB46jnsBQJeu8lHIV" name="Page-1">
-    <mxGraphModel dx="2177" dy="1924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2274" dy="2051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,215 +322,263 @@
         <mxCell id="WeLaR92I-kGNufDvTVf9-177" value="NL社員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-70" y="3750" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WeLaR92I-kGNufDvTVf9-170">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WeLaR92I-kGNufDvTVf9-170" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-215" y="3990" as="sourcePoint" />
             <mxPoint x="-80" y="3790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="-960" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-3" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-3" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-760" y="-960" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-4" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-4" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-755" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-5" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-5" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-515" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-6" value="イベント&lt;br&gt;参加者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-6" value="イベント&lt;br&gt;参加者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-395" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-7" value="SGFUT&lt;br&gt;管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-7" value="SGFUT&lt;br&gt;管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-635" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-8" value="NL社員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-8" value="NL社員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-275" y="-1120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-12" value="&lt;h1&gt;イベント削除&lt;/h1&gt;&lt;p&gt;イベント主催者はイベントを取り消したい場合、イベント削除を行う。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-12" value="&lt;h1&gt;イベント削除&lt;/h1&gt;&lt;p&gt;イベント主催者はイベントを取り消したい場合、イベント削除を行う。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-810" y="1470" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-13" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-13" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-520" y="1550" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="1480" width="240" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-15" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-15" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="1480" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-16" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-16" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="1520" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-17" value="イベントを&lt;br&gt;削除する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-17" value="イベントを&lt;br&gt;削除する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="1590" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-16">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480.0000000000002" y="1580" as="sourcePoint" />
             <mxPoint x="-334.22" y="1393.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-17">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480.0000000000002" y="1580" as="sourcePoint" />
             <mxPoint x="-334.9999999999985" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-20" value="&lt;h1&gt;イベント復旧&lt;/h1&gt;&lt;p&gt;イベント主催者が誤ってイベント削除してしまい、復旧させたい場合はSGFUT管理者にその旨を連絡する。SGFUT管理者は復旧連絡をトリガーにイベントページを復旧させる。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-20" value="&lt;h1&gt;イベント復旧&lt;/h1&gt;&lt;p&gt;イベント主催者が誤ってイベント削除してしまい、復旧させたい場合はSGFUT管理者にその旨を連絡する。SGFUT管理者は復旧連絡をトリガーにイベントページを復旧させる。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-810" y="1750" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-21" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-21" value="イベント&lt;br&gt;主催者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-520" y="1850" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="1760" width="240" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-23" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-23" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="1760" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-24" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-24" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="1800" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-25" value="イベント復旧&lt;br&gt;の依頼" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-25" value="イベント復旧&lt;br&gt;の依頼" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="1870" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-24">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="1890" as="sourcePoint" />
             <mxPoint x="-334.22" y="1673.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-25">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="1890" as="sourcePoint" />
             <mxPoint x="-334.9999999999985" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-28" value="SGFUT&lt;br&gt;管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-28" value="SGFUT&lt;br&gt;管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-70" y="1850" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-29" value="イベントページ&lt;br&gt;の復旧" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-29" value="イベントページ&lt;br&gt;の復旧" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="1940" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-30" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-29">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-30" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="1890" as="sourcePoint" />
             <mxPoint x="-330.00000000000296" y="1840.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-31" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-25">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-31" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="1890" as="sourcePoint" />
             <mxPoint x="-199.99999999999704" y="1980.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-32" value="&lt;h1&gt;パスワードリセット&lt;/h1&gt;&lt;p&gt;SGFUT利用者はログインパスワードを忘れた際、パスワードリセットによりパスワード情報を初期化する。初期化後は新パスワードを入力する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-32" value="&lt;h1&gt;パスワードリセット&lt;/h1&gt;&lt;p&gt;SGFUT利用者はログインパスワードを忘れた際、パスワードリセットによりパスワード情報を初期化する。初期化後は新パスワードを入力する。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-810" y="-235" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-33" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-33" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-520" y="-170" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="-240" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-35" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-35" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="-240" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-36" value="パスワード&lt;br&gt;リセット" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-36" value="パスワード&lt;br&gt;リセット" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-345" y="-205" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-37" value="ユーザーID・&lt;br&gt;新パスワードで&lt;br&gt;ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-37" value="ユーザーID・&lt;br&gt;新パスワードで&lt;br&gt;ログインする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-345" y="-135" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-36">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="-140.00000000000023" as="sourcePoint" />
             <mxPoint x="-360" y="-300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-37">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="-140.00000000000023" as="sourcePoint" />
             <mxPoint x="-319.22" y="-326.70000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-40" value="&lt;h1&gt;ユーザー認証&lt;/h1&gt;&lt;p&gt;SGFUT利用者は初回にユーザー登録を行う。以降はユーザーID、パスワードでログインする。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-40" value="&lt;h1&gt;ユーザー認証&lt;/h1&gt;&lt;p&gt;SGFUT利用者は初回にユーザー登録を行う。以降はユーザーID、パスワードでログインする。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-810" y="-715" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-41" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-41" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-520" y="-650" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="-720" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-43" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-43" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="-720" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-44" value="初回登録する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-44" value="初回登録する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-345" y="-685" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-45" value="ユーザーID・&lt;br&gt;パスワードで&lt;br&gt;ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-45" value="ユーザーID・&lt;br&gt;パスワードで&lt;br&gt;ログインする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-345" y="-615" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-46" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-44">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-46" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="-620.0000000000002" as="sourcePoint" />
             <mxPoint x="-360" y="-780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-45">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="-620.0000000000002" as="sourcePoint" />
             <mxPoint x="-319.22" y="-806.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-48" value="&lt;h1&gt;マイページ確認・変更&lt;/h1&gt;&lt;p&gt;SGFUT利用者はログインIDごとに存在する専用ページ（マイページ）を持ち、アイコン画像、ユーザー登録情報の確認・変更が行える。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-48" value="&lt;h1&gt;マイページ確認・変更&lt;/h1&gt;&lt;p&gt;SGFUT利用者はログインIDごとに存在する専用ページ（マイページ）を持ち、アイコン画像、ユーザー登録情報の確認・変更が行える。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-810" y="45" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-49" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-49" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-520" y="145" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="40" width="240" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-51" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-51" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="40" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-52" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-52" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-345" y="75" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-53" value="マイページに&lt;br&gt;遷移する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-53" value="マイページに&lt;br&gt;遷移する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-345" y="145" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-52">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="180" as="sourcePoint" />
             <mxPoint x="-360" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-53">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="180" as="sourcePoint" />
             <mxPoint x="-319.22" y="-46.700000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-56" value="ユーザー情報を&lt;br&gt;確認・変更する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-56" value="ユーザー情報を&lt;br&gt;確認・変更する" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-343.5" y="220" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A33HGGwkOWzx7C4AMWZ3-56">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="A33HGGwkOWzx7C4AMWZ3-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="180" as="sourcePoint" />
             <mxPoint x="-335.00000000000296" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="-960" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="A33HGGwkOWzx7C4AMWZ3-60" value="SGFUT on CRAP プロジェクト" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A33HGGwkOWzx7C4AMWZ3-60" value="SGFUT on CRAP プロジェクト" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-490" y="-960" width="191" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-1" value="SGFUT&lt;br&gt;利用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-522" y="4338" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="4207" width="240" height="331" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-3" value="SGFUT on CRAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="4207" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-4" value="ログインする" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="4252" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-5" value="イベント一覧を&lt;br&gt;確認する" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="4322" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-6" value="イベント一覧から&lt;br&gt;気になるイベント&lt;br&gt;を選択" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="4392" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-7" value="イベントの詳細情報&lt;br&gt;を確認する。" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="4462" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pNzFjtYZbz14XIIfsbEC-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-479" y="4378" as="sourcePoint" />
+            <mxPoint x="-329.22" y="4295.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pNzFjtYZbz14XIIfsbEC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-479" y="4378" as="sourcePoint" />
+            <mxPoint x="-329.9999999999985" y="4362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pNzFjtYZbz14XIIfsbEC-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="4378" as="sourcePoint" />
+            <mxPoint x="-330.26" y="4505.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-14" value="&lt;h1&gt;イベント詳細確認&lt;/h1&gt;&lt;p&gt;SGFUT利用者はイベント一覧からチェックしたいイベントを選択し、イベントの詳細情報を確認することができる。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-803" y="4202" width="253" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pNzFjtYZbz14XIIfsbEC-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pNzFjtYZbz14XIIfsbEC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-479" y="4377" as="sourcePoint" />
+            <mxPoint x="-330" y="4362" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
